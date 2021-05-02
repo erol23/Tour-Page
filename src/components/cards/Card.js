@@ -5,7 +5,8 @@ import { data } from '../../helpers/data';
 const Card = () => {
     return(
         <div className="card-container">
-            {data.map((card)=>{
+            {data.map((card) => {
+                return(
                 <div className='cards'>
                     <div className="title">
                         <h2>{card.title}</h2>
@@ -15,6 +16,7 @@ const Card = () => {
                         <p>{card.desc}</p>
                     </div>
                 </div>
+                )
             })}
         </div>
     )
