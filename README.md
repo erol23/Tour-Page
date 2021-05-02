@@ -1,1 +1,1 @@
-![Clarusway-Tour-Page](Clarusway-Tour.gif)
+![Clarusway-Tour-Page](Clarusway-Tour-Gif.gif)
