@@ -1,7 +1,7 @@
 {
   "name": "tour-place",
   "version": "0.1.0",
-  "homepage": "https://github.com/erol23/Tour-Page/",
+  "homepage": "https://erol23.github.io/Tour-Page/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
