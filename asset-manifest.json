@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/erol23/Tour-Page/static/css/main.165968c4.chunk.css",
-    "main.js": "/erol23/Tour-Page/static/js/main.cec687d9.chunk.js",
-    "main.js.map": "/erol23/Tour-Page/static/js/main.cec687d9.chunk.js.map",
-    "runtime-main.js": "/erol23/Tour-Page/static/js/runtime-main.f2b6f5a7.js",
-    "runtime-main.js.map": "/erol23/Tour-Page/static/js/runtime-main.f2b6f5a7.js.map",
-    "static/js/2.74a05d07.chunk.js": "/erol23/Tour-Page/static/js/2.74a05d07.chunk.js",
-    "static/js/2.74a05d07.chunk.js.map": "/erol23/Tour-Page/static/js/2.74a05d07.chunk.js.map",
-    "index.html": "/erol23/Tour-Page/index.html",
-    "static/css/main.165968c4.chunk.css.map": "/erol23/Tour-Page/static/css/main.165968c4.chunk.css.map",
-    "static/js/2.74a05d07.chunk.js.LICENSE.txt": "/erol23/Tour-Page/static/js/2.74a05d07.chunk.js.LICENSE.txt"
+    "main.css": "/Tour-Page/static/css/main.165968c4.chunk.css",
+    "main.js": "/Tour-Page/static/js/main.cec687d9.chunk.js",
+    "main.js.map": "/Tour-Page/static/js/main.cec687d9.chunk.js.map",
+    "runtime-main.js": "/Tour-Page/static/js/runtime-main.191d707f.js",
+    "runtime-main.js.map": "/Tour-Page/static/js/runtime-main.191d707f.js.map",
+    "static/js/2.74a05d07.chunk.js": "/Tour-Page/static/js/2.74a05d07.chunk.js",
+    "static/js/2.74a05d07.chunk.js.map": "/Tour-Page/static/js/2.74a05d07.chunk.js.map",
+    "index.html": "/Tour-Page/index.html",
+    "static/css/main.165968c4.chunk.css.map": "/Tour-Page/static/css/main.165968c4.chunk.css.map",
+    "static/js/2.74a05d07.chunk.js.LICENSE.txt": "/Tour-Page/static/js/2.74a05d07.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2b6f5a7.js",
+    "static/js/runtime-main.191d707f.js",
     "static/js/2.74a05d07.chunk.js",
     "static/css/main.165968c4.chunk.css",
     "static/js/main.cec687d9.chunk.js"
